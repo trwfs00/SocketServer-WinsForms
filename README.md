@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/72bae2c4-1ef7-4294-aa3b-00bc9e286ff8)
 
 # Windows Forms App (.NET Framework)
-I'm using WebSocketSharp as WebSocket Client that can receive and send message to WebSocket Server.
+I'm using WebSocketSharp as WebSocket Server that can receive and send message back to Client (React).
 - nuget install command: `Install-Package WebSocketSharp -Version 1.0.3-rc11`
 
 # Which Project Type that I use
